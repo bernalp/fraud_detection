@@ -7,3 +7,6 @@
 - exploring Data and Transaction Types
 - visualizing Transaction Type Distribution
 - calculate correlation on numeric columns with 'isFraud' column
+- extracting features and target variable for machine learning
+- try machine learning model using DecisionTreeClassifier
+- try another model using OneHotEncoder
