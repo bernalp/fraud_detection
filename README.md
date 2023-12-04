@@ -17,3 +17,9 @@
 - perform one-hot encoding on the 'type' column in the test set
 - concatenate the encoded 'type' column with other numerical columns in the test set
 - use the trained model to make predictions on the encoded test data
+- check the number of samples in predicted_values and ytest
+- reshape y to a 1D array
+- retrain the model with the updated y
+- make predictions on the encoded test data
+- reshape ytest to a 1D array
+- calculate the accuracy score
