@@ -24,3 +24,4 @@
 - reshape ytest to a 1D array
 - calculate the accuracy score
 - Try classify whether a transaction is a fraud or not by feeding about a transaction into the model
+- Try classify transaction with different features
