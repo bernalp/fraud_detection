@@ -26,3 +26,4 @@
 - Try classify whether a transaction is a fraud or not by feeding about a transaction into the model
 - Try classify transaction with different features
 - Try classify transaction with different features value
+- evaluate on test data
