@@ -28,3 +28,4 @@
 - Try classify transaction with different features value
 - evaluate on test data
 - evaluate confusion matrix
+- evaluate classification report
